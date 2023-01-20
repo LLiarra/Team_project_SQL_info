@@ -1,0 +1,10 @@
+"""Peer""","""RecommendedPeer"""
+great,nice
+great,brave
+less,honest
+less,nice
+honest,nice
+honest,less
+brave,nice
+brave,less
+nice,less
